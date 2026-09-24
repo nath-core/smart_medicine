@@ -15,7 +15,7 @@ website requirements.
 -   **College:** Ahalia School of Engineering and Technology
 -   **Department:** Computer Science and Engineering
 -   **Course:** PBCST504 -- Microcontrollers
--   **Guide:** Balamurugan
+-   **Guide:** Dr. Balamurugan V
 
 ### Team Members
 
